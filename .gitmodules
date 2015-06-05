@@ -1,0 +1,3 @@
+[submodule "js/vendor/drdelambre"]
+	path = js/vendor/drdelambre
+	url = https://github.com/drdelambre/drdelambre.git
